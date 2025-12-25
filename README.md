@@ -136,3 +136,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 jjshdfkasjfdhl test
+
+## Acknowledgement
+
+This project is a collaborative effort completed by  
+[Enbo Sun](https://github.com/LeidenschaftLiebe), 
+[Yuzhong Chen](https://github.com/Russell12138), 
+[Kaijie Yang](https://github.com/MrKvaPIN), 
+[Yangle Liu](https://github.com/Cola-1), 
+[Tianyuan Tan](https://github.com/tantianyuan), 
+and [Ruiying Ma](https://github.com/tiezhun).
