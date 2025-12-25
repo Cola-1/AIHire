@@ -1,4 +1,9 @@
 # AIHire: An AI-Powered Intelligent Recruitment Management System
+---
+
+This repository contains the **design and implementation** of **AIHire**, an **AI-powered intelligent recruitment management system** that integrates large language models (LLMs), resume analysis, job recommendation, and interview scheduling to streamline modern hiring workflows.
+
+---
 **Main Page**
 <p align="center">
   <img src="asset/4.png" alt="AIHire Teaser" width="90%">
@@ -10,11 +15,7 @@
 </p>
 
 
----
 
-This repository contains the **design and implementation** of **AIHire**, an **AI-powered intelligent recruitment management system** that integrates large language models (LLMs), resume analysis, job recommendation, and interview scheduling to streamline modern hiring workflows.
-
----
 
 
 
