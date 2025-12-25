@@ -144,5 +144,6 @@ This project is a collaborative effort completed by
 [Yuzhong Chen](https://github.com/Russell12138), 
 [Kaijie Yang](https://github.com/MrKvaPIN), 
 [Yangle Liu](https://github.com/Cola-1), 
-[Tianyuan Tan](https://github.com/tantianyuan), 
-and [Ruiying Ma](https://github.com/tiezhun).
+[Ruiying Ma](https://github.com/tiezhun),
+and [Tianyuan Tan](https://github.com/tantianyuan)
+
