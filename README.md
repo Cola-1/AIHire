@@ -1,3 +1,65 @@
+# AIHire: An AI-Powered Intelligent Recruitment Management System
+
+<p align="center">
+  <img src="asset/3.png" alt="AIHire Teaser" width="80%">
+</p>
+
+
+---
+
+This repository contains the **design and implementation** of **AIHire**, an **AI-powered intelligent recruitment management system** that integrates large language models (LLMs), resume analysis, job recommendation, and interview scheduling to streamline modern hiring workflows.
+
+---
+
+---
+
+## 🧠 System Overview
+
+- **Applicants**
+  - Resume upload and management
+  - Job search and AI-based job recommendations
+  - Direct messaging with recruiters
+
+- **Recruiters**
+  - Job posting and application review
+  - AI-assisted candidate ranking
+  - Interview scheduling and communication
+
+- **AI Modules**
+  - Resume parsing and information extraction
+  - Context-aware job–candidate matching
+  - Candidate ranking and recommendation
+
+---
+
+## 🏗️ Architecture
+
+- **Backend:** Java (JDK 1.8), Spring Boot  
+- **Frontend:** Thymeleaf, Layui, JavaScript, jQuery  
+- **Database:** MySQL  
+- **Caching:** Redis  
+- **Security:** Spring Security, JWT authentication  
+- **Deployment:** Docker, Nginx  
+- **APIs & Integrations:**  
+  - LinkedIn API (profile and job information)  
+  - Google Calendar API (interview scheduling)
+
+---
+
+## 📊 AI & Data
+
+- Utilizes **pre-trained LLMs** for resume understanding and job matching  
+- Supports **Retrieval-Augmented Generation (RAG)** for knowledge-intensive reasoning  
+- Training and testing data sourced from:
+  - Kaggle Resume Dataset
+  - OpenResume
+  - Open-source job listings  
+- Designed with **GDPR-compliant data handling** and ethical AI considerations
+
+---
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
