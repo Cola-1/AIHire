@@ -1,7 +1,9 @@
 # AIHire: An AI-Powered Intelligent Recruitment Management System
-
 <p align="center">
-  <img src="asset/3.png" alt="AIHire Teaser" width="80%">
+  <img src="asset/4.png" alt="AIHire Teaser" width="90%">
+</p>
+<p align="center">
+  <img src="asset/3.png" alt="AIHire Teaser" width="90%">
 </p>
 
 
