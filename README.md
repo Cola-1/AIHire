@@ -1,7 +1,10 @@
 # AIHire: An AI-Powered Intelligent Recruitment Management System
+**Main Page**
 <p align="center">
   <img src="asset/4.png" alt="AIHire Teaser" width="90%">
 </p>
+
+**Position Search Page**
 <p align="center">
   <img src="asset/3.png" alt="AIHire Teaser" width="90%">
 </p>
@@ -13,7 +16,7 @@ This repository contains the **design and implementation** of **AIHire**, an **A
 
 ---
 
----
+
 
 ## 🧠 System Overview
 
@@ -60,7 +63,7 @@ This repository contains the **design and implementation** of **AIHire**, an **A
 
 ---
 
-
+# Project instruction
 
 # Getting Started with Create React App
 
